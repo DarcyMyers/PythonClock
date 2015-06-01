@@ -17,4 +17,4 @@ Author: Darcy Myers
 Date: December 2014
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-63613233-3/RecipeDB/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-63613233-3/PythonClock/readme)](https://github.com/igrigorik/ga-beacon)
